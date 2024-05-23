@@ -103,16 +103,16 @@ Java Swing을 이용한 GUI를 활용한 간단한 점프 게임입니다. 로�
 ## 실행 화면
 - 메인 화면 및 로그인 화면
 
-  ![image](https://github.com/dohb128/JavaRun/assets/116796285/fc32d2fe-68f8-4b91-a6c6-b4743333fd75)
+  ![image](https://github.com/dohb128/Mini-Run/assets/116796285/fc32d2fe-68f8-4b91-a6c6-b4743333fd75)
 - 회원가입
 
-  ![image](https://github.com/dohb128/JavaRun/assets/116796285/eb6cf414-86c7-496d-997e-a4fc142991ed)
+  ![image](https://github.com/dohb128/Mini-Run/assets/116796285/eb6cf414-86c7-496d-997e-a4fc142991ed)
 - 게임 화면
 
-  ![image](https://github.com/dohb128/JavaRun/assets/116796285/3f30fd34-cbc0-404d-b254-7844d9add3c2)
+  ![image](https://github.com/dohb128/Mini-Run/assets/116796285/3f30fd34-cbc0-404d-b254-7844d9add3c2)
 - 순위
 
-  ![image](https://github.com/dohb128/JavaRun/assets/116796285/0a954aeb-4aa5-4adb-aebe-bef708199189)
+  ![image](https://github.com/dohb128/Mini-Run/assets/116796285/0a954aeb-4aa5-4adb-aebe-bef708199189)
 
 ## 감사의 글
 이 프로젝트는 인하공업전문대학 컴퓨터정보과의 자바 프로젝트 수업의 결과물입니다. 모든 강사님들과 팀원들의 지원과 협력에 감사드립니다.
